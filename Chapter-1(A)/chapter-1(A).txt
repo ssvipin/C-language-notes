@@ -1,0 +1,33 @@
+->What are programming languages?
+programming language are the terms given to language through which we can talk to the computer systems. These are devided into two major parts known as:-
+a. Low level languages: The term low means close to the Hardware
+b. high level languages: the term High means close to the Humans
+
+->Low level languages:
+The languages in this category are:
+a. machine level language
+b. Assembly language
+
+->Machine level language
+Since we know computer is an electronic device and it can only understand 0 and 1. so to communicate with computer we need to talk in 0 and 1 and that language is
+termed as Machine level language.
+
+->Assembly language
+In this language we started to use English based terms like ADD(for Addition),SUB(Subtraction) and MUL(Multiplication). but as we know computer can only understand
+0 and 1 so we need someone who can convert these terms into machine understandable form, so the term Assembler(Translator) were introduced.
+	
+->High level language
+High level languages are portable in nature.
+Machine Independent
+Easy to write
+Translators are used to convert high level language into machine understandable form(Compilers or Interpreter).
+
+->Translator
+Translators are used to convert high level or low level language into the machine understable form.
+eg. Compilers
+Interpreter
+
+->Characterstics of C
+C is a Middle level language
+It has a simplicity of high level language and power of low level language.
+Father of C is known as Dennis M. Ritchie(1970s)
